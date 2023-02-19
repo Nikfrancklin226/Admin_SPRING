@@ -1,6 +1,19 @@
 # Admin_SPRING
 Ce projet vous présente les fonctionnalités de connexion d'une base de données phpmyadmin via Postman
 
+# AdminSpringBoot
+Creation de la base de données
+Nous avons utiliser Spring boot pour la création de notre base de données. Nous avons choisis "maven" comme projet, "java" comme langage, et "2.7.8" comme version de spring boot. Nous avons également ajoutés les dépendances suivantes :
+
+.Web
+.JPA
+.Actuator
+.Mysql
+.Lombok
+.DevTools
+
+![image](https://user-images.githubusercontent.com/91322696/219975279-31376405-ff4c-4988-8ec3-9cd4f14f2299.png)
+
 
 Création de table
 
